@@ -59,7 +59,7 @@
 }
 @media screen and (max-width: 640px) {
   .accordian_body{
-    max-width: 200px;
+    max-width: 300px;
   }
   .accordian_body h1{
     text-align: center;
